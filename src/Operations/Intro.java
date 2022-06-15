@@ -11,6 +11,7 @@ public class Intro {
         Scanner inp = new Scanner(System.in);
         int choise;
         do {
+            System.out.println("*** --- HELLO, Dolly --- *** ");
             System.out.println("Выберите действие ");
             System.out.println("1. Внести данные ");
             System.out.println("2. Удалить данные ");
